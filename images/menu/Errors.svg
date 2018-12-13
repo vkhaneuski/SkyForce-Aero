@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="43pt" height="44pt" viewBox="0 0 43 44" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<path class="menu2path" fill="#252530" stroke="#252530" stroke-width="0.09375" opacity="1.00" d=" M 0.0 0.0 L 43.0 0.0 L 43.0 44.0 L 0.0 44.0 L 0.0 0.0 Z" />
+<path class="menu1path" fill="#cccccc" stroke="#cccccc" stroke-width="0.09375" opacity="1.00" d=" M 18.4 1.8 C 24.4 0.9 30.7 2.7 35.1 6.8 C 40.3 11.3 42.9 18.4 41.9 25.2 C 40.9 33.1 34.9 40.1 27.1 42.2 C 20.3 44.2 12.5 42.5 7.4 37.6 C 2.0 32.8 -0.5 25.1 1.1 18.0 C 2.7 9.7 10.0 2.8 18.4 1.8 Z" />
+<path class="menu2path" fill="#252530" stroke="#252530" stroke-width="0.09375" opacity="1.00" d=" M 18.2 3.2 C 28.8 1.1 39.7 9.5 40.6 20.1 C 42.1 30.6 33.4 41.0 22.9 41.6 C 12.3 42.8 2.0 33.6 2.0 22.9 C 1.5 13.4 8.9 4.5 18.2 3.2 Z" />
+<path class="menu1path" fill="#cccccc" stroke="#cccccc" stroke-width="0.09375" opacity="1.00" d=" M 21.2 15.5 C 22.5 12.9 24.9 11.5 27.6 10.8 C 27.7 11.4 27.8 12.7 27.8 13.4 C 30.0 14.7 32.5 16.1 33.0 18.9 C 33.6 22.8 33.2 26.8 33.2 30.7 C 25.3 30.7 17.3 30.8 9.4 30.7 C 9.9 25.6 7.7 19.1 12.0 15.1 C 14.7 12.5 18.5 13.7 21.2 15.5 Z" />
+<path class="menu2path" fill="#252530" stroke="#252530" stroke-width="0.09375" opacity="1.00" d=" M 22.4 16.2 C 22.9 14.2 24.9 13.3 26.4 12.0 C 26.6 16.1 26.5 20.2 26.5 24.3 C 25.5 24.6 23.4 25.2 22.3 25.5 C 24.1 25.9 25.9 26.1 27.7 26.4 C 27.8 22.6 27.7 18.8 27.9 14.9 C 28.8 15.7 29.7 16.5 30.6 17.4 C 31.2 20.8 30.8 24.2 30.9 27.6 C 28.1 26.8 25.1 26.3 22.2 26.0 C 22.2 22.7 21.8 19.4 22.4 16.2 Z" />
+<path class="menu2path" fill="#252530" stroke="#252530" stroke-width="0.09375" opacity="1.00" d=" M 12.1 17.2 C 14.0 14.5 18.2 14.6 20.2 17.1 C 20.8 20.5 20.4 24.0 20.5 27.5 C 17.7 26.1 14.5 26.0 11.7 27.6 C 11.9 24.1 11.4 20.6 12.1 17.2 Z" />
+<path class="menu1path" fill="#86868b" stroke="#86868b" stroke-width="0.09375" opacity="1.00" d=" M 14.6 28.1 C 15.3 27.2 17.8 27.3 17.5 28.7 C 16.9 29.7 14.4 29.6 14.6 28.1 Z" />
+<path class="menu1path" fill="#7a7a7f" stroke="#7a7a7f" stroke-width="0.09375" opacity="1.00" d=" M 25.5 28.1 C 26.6 27.1 27.3 27.4 27.5 28.8 C 26.4 29.7 25.7 29.5 25.5 28.1 Z" />
+</svg>
